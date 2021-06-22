@@ -1,6 +1,9 @@
 //https://play.rust-lang.org/?version=stable&mode=release&edition=2018
 //https://github.com/nrc/r4cppp/blob/master/control-flow.md
 //https://doc.rust-lang.org/1.27.2/book/first-edition/guessing-game.html
+//http://downloads.codecoding.com/rust/Programming%20Rust.pdf
+//https://www.manning.com/books/rust-in-action
+
 
 // -> means the return value
 
